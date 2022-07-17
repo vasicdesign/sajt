@@ -277,7 +277,7 @@ for (i = 0; i < faq.length; i++) {
 })()
 // =======
 
-function funkcija1() {
+(function () {
   "use strict";
 
   /**
@@ -553,4 +553,4 @@ for (i = 0; i < faq.length; i++) {
     })
   });
 
-}
+})()
