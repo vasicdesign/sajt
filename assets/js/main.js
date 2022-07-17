@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 (function() {
   "use strict";
 
@@ -556,4 +554,3 @@ for (i = 0; i < faq.length; i++) {
   });
 
 })()
->>>>>>> 1d1a7055557275ee7b7c052ebd1e61edff875714
